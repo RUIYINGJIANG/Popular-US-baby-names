@@ -1,6 +1,5 @@
 Popular US baby names
 
-
 In this question, we will use the US baby names dataset from The United States Social Security Administration to create a database and answer some questions.
 
 Go to https://www.ssa.gov/oact/babynames/limits.html, read the Background information, download the state-specific data on baby names, save the zip file under the data folder and unzip the file in the data folder
