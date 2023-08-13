@@ -1,11 +1,6 @@
-# Q1: Popular US baby names (35 marks)
-!!! VERY IMPORTANT. PLEASE READ !!!
-Please DO NOT upload any data (TXT files, pdf files, .db file, etc) to GitHub for this part as the data is too large!
-There are some restriction and issues if you upload files that are too large in GitHub. See here to learn more
-You will lose marks if you have uploaded any of them - even if you delete them afterwards
-When uploading your work via GitHub Desktop, you can select what files to upload on the left by checking (and unchecking) the boxes corresponding to the files you want to (and do not want to) upload, as demonstrated in Workshop 5
-I have modified the setting for your problem set repository so that by default it should not let you upload the data/namesbystate folder, the data/namesbystate.zip, or the .db file, and you should not see them available on the left
-However, if for some reason any of the data files appear on the left, you should uncheck the boxes corresponding to those files
+Popular US baby names
+
+
 In this question, we will use the US baby names dataset from The United States Social Security Administration to create a database and answer some questions.
 
 Go to https://www.ssa.gov/oact/babynames/limits.html, read the Background information, download the state-specific data on baby names, save the zip file under the data folder and unzip the file in the data folder
